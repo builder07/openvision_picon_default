@@ -1,1 +1,1 @@
-picons specifically for the OpenFIX image
+picons specifically for image

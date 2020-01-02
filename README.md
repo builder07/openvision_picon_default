@@ -1,1 +1,1 @@
-picons default for image
+picon default for image
